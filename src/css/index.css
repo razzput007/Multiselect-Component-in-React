@@ -1,0 +1,13 @@
+.select{
+    width: 400px;
+    margin: 10px auto;
+    word-wrap: break-word;
+}
+.container{
+    flex-wrap: wrap;
+    margin-bottom: 100px;
+}
+.heading{
+    margin-bottom: 50px;
+    color: blue;
+}
